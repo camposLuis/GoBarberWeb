@@ -25,3 +25,7 @@
 - Instalação das bibliotecas de configuração do reactotron e integração do reactotron com redux
 
   - yarn add reactotron-react-js
+
+- Instalação da biblioteca de validação de Prop Types
+
+  - yarn add prop-types
