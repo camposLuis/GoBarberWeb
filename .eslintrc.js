@@ -25,9 +25,16 @@ module.exports = {
     'no-param-reassign': 'off',
     'jsx-a11y/control-has-associated-label': 'off',
     'react/jsx-props-no-spreading': 'off',
+    'import/no-extraneous-dependencies': 'off',
     'no-console': ['error', { allow: ['tron'] }],
-
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
+  },
+  settings: {
+    'import/resolver': {
+      'babel-plugin-root-import': {
+        rootPathSuffix: 'src',
+      },
+    },
   },
 };
