@@ -13,3 +13,11 @@
   - yarn add eslint-plugin-react-hooks -D
 
 - Criar o arquivo .prettierrc
+
+- Configuração da parte de navegação da aplicação
+
+  - yarn add react-router-dom
+
+- Instalação da biblioteca que controla as historys das rotas do navegador
+
+  - yarn add history
