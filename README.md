@@ -29,3 +29,7 @@
 - Instalação da biblioteca de validação de Prop Types
 
   - yarn add prop-types
+
+- Instalação da biblioteca de estilização
+
+  - yarn add styled-components
