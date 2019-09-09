@@ -47,3 +47,7 @@
 - Instalação da biblioteca para facilitar a criação de formulário peformáticos
 
   - yarn add @rocketseat/unform
+
+- Instalação da biblioteca para fazer validações nos forms
+
+  - yarn add yup
