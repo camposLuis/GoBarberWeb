@@ -43,3 +43,7 @@
 - Instalação da biblioteca para lidar com cores dentro do java script
 
   - yarn add polished
+
+- Instalação da biblioteca para facilitar a criação de formulário peformáticos
+
+  - yarn add @rocketseat/unform
