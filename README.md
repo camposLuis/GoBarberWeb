@@ -39,3 +39,7 @@
   - yarn add customize-cra react-app-rewired -D
   - yarn add babel-plugin-root-import -D
   - yarn add eslint-import-resolver-babel-plugin-root-import -D
+
+- Instalação da biblioteca para lidar com cores dentro do java script
+
+  - yarn add polished
