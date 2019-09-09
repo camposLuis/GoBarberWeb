@@ -24,7 +24,7 @@
 
 - Instalação das bibliotecas de configuração do reactotron e integração do reactotron com redux
 
-  - yarn add reactotron-react-js
+  - yarn add reactotron-react-js reactotron-redux
 
 - Instalação da biblioteca de validação de Prop Types
 
@@ -51,3 +51,19 @@
 - Instalação da biblioteca para fazer validações nos forms
 
   - yarn add yup
+
+- Instalação das bibliotecas de configuração do redux e de integração do react com o redux
+
+  - yarn add redux react-redux
+
+- Instalação de ferramenta para lidar com objetos e arrays que são imutáveis dentro de aplicações que utilizam java script.
+
+  - yarn add immer
+
+- Instalação da biblioteca do redux saga (middlewere no redux)
+
+  - yarn add redux-saga
+
+- Instalação da biblioteca de integração do redux saga com o reactotron
+
+  - yarn add reactotron-redux-saga
