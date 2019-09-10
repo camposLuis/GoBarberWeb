@@ -71,3 +71,7 @@
 - Instalação de biblioteca que permite consumir api
 
   - yarn add axios
+
+- Instalação de biblioteca para persistir os dados do state no storage do navegador
+
+  - yarn add redux-persist
