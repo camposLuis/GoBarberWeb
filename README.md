@@ -67,3 +67,7 @@
 - Instalação da biblioteca de integração do redux saga com o reactotron
 
   - yarn add reactotron-redux-saga
+
+- Instalação de biblioteca que permite consumir api
+
+  - yarn add axios
