@@ -1,8 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-import { Container, Content, Profile } from './styles';
+import Notification from '~/components/Notifications';
 
+import { Container, Content, Profile } from './styles';
 import logo from '~/assets/logo_purple.svg';
 
 export default function Header() {
@@ -15,6 +16,7 @@ export default function Header() {
         </nav>
 
         <aside>
+          <Notification />
           <Profile>
             <div>
               <strong>Luís Campos</strong>

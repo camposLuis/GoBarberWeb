@@ -79,3 +79,11 @@
 - Instalação da biblioteca que permite mensagens mais visuais
 
   - yarn add react-toastify
+
+- Instalação da biblioteca de icons
+
+  - yarn add react-icons
+
+- Instalação da biblioteca de scrollbar
+
+  - yarn add react-perfect-scrollbar
