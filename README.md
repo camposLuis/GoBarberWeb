@@ -79,6 +79,7 @@
 - Instalação da biblioteca que permite mensagens mais visuais
 
   - yarn add react-toastify
+    - Importar ( import 'react-toastify/dist/ReactToastify.css'; )
 
 - Instalação da biblioteca de icons
 
@@ -87,3 +88,4 @@
 - Instalação da biblioteca de scrollbar
 
   - yarn add react-perfect-scrollbar
+    - Importar ( import 'react-perfect-scrollbar/dist/css/styles.css'; )
