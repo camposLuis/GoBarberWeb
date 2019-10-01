@@ -89,3 +89,7 @@
 
   - yarn add react-perfect-scrollbar
     - Importar ( import 'react-perfect-scrollbar/dist/css/styles.css'; )
+
+- Instalação da biblioteca para trabalhar com datas
+
+  - yarn add date-fns@next
