@@ -93,3 +93,7 @@
 - Instalação da biblioteca para trabalhar com datas
 
   - yarn add date-fns@next
+
+- Instalação da biblioteca para trabalhar com time zone
+
+  - yarn add date-fns-tz
